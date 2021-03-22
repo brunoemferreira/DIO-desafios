@@ -50,7 +50,7 @@ Desafios kotlin
         <!-- Solucionando problemas em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação com Kotlin</th>
+                <th colspan="4">Solucionando Problemas com Kotlin</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -65,31 +65,31 @@ Desafios kotlin
                 <td align="center">1</td>
                 <td>Taxa de Imposto de Renda</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Área do Círculo</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Primo Rápido</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>    
             <tr>
                 <td align="center">4</td>
                 <td>Corrida de Tartarugas</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>    
             <tr>
                 <td align="center">5</td>
                 <td>Figurinhas</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
         </table>
       </div>
 </div>
