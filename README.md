@@ -6,7 +6,9 @@ Desafios kotlin
 
 <p>Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores</p>
 
-
+<div>
+    <summary><strong>Kotlin</strong></summary>
+    <br />
     <div align="left">
         <!-- Introdução a Programação com Kotlin -->
         <table border=1>
@@ -41,4 +43,4 @@ Desafios kotlin
                 <td align="center">✔️</td>
         </table>
       </div>
-
+</div>
