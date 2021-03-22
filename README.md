@@ -41,7 +41,7 @@ Desafios kotlin
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td>Soma</td>
+                <td>Soma Simples</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
