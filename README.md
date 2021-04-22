@@ -113,14 +113,14 @@ Desafios kotlin
             <tr>
                 <td align="center">1</td>
                 <td>Visita na Feira</td>
-                <td><a href="">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/VisitaNaFeira.js">Código</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Multiplicação Simples</td>
-                <td><a href="">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/MultiplicacaoSimples.js">Código</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
