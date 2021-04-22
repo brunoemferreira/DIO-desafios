@@ -125,8 +125,8 @@ Desafios kotlin
             <tr>
                 <td align="center">3</td>
                 <td>Folha de Pagamento</td>
-                <td><a href="">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/FolhaDePagamento.js">Código</a></td>
+                <td align="center">✔️</td>
         </table>
       </div>
 </div>
