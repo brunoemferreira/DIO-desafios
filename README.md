@@ -153,31 +153,31 @@
                 <td align="center">1</td>
                 <td>Quantidade de Números Positivos</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
            <tr>
                 <td align="center">2</td>
                 <td>Exibindo Números Pares</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Análise de Números</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Contagem de Cédulas</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Consumo Médio do Automóvel</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
         </table>
       </div>
 </div>
