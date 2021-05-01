@@ -47,7 +47,7 @@
 <div>
     <div align="left">
         <!-- Solucionando problemas em Kotlin -->
-        <table border=1>
+        <table border=1 width="800px">
             <tr>
                 <th colspan="4">Solucionando Problemas com Kotlin</th>
             </tr>
