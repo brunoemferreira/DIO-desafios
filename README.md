@@ -10,7 +10,7 @@
     <br />
     <div align="left">
         <!-- Introdução a Programação com Kotlin -->
-        <table border=1>
+        <table border=1 width="700px">
             <tr>
                 <th colspan="4">Introdução a Programação com Kotlin</th>
             </tr>
@@ -47,7 +47,7 @@
 <div>
     <div align="left">
         <!-- Solucionando problemas em Kotlin -->
-        <table border=1 width="800px">
+        <table border=1 width="700px">
             <tr>
                 <th colspan="4">Solucionando Problemas com Kotlin</th>
             </tr>
@@ -98,7 +98,7 @@
     <br />
     <div align="left">
         <!-- Introdução a Programação com JavaScript -->
-        <table border=1>
+        <table border=1 width="700px">
             <tr>
                 <th colspan="4">Introdução a Programação com JavaScript</th>
             </tr>
@@ -136,7 +136,7 @@
 <div>
     <div align="left">
         <!-- Introdução a Programação com JavaScript -->
-        <table border=1>
+        <table border=1 width="700px">
             <tr>
                 <th colspan="4">Fundamentos Aritméticos em JavaScript</th>
             </tr>
@@ -186,7 +186,7 @@
 <div>
     <div align="left">
         <!-- Introdução a Programação com JavaScript -->
-        <table border=1>
+        <table border=1 width="700px">
             <tr>
                 <th colspan="4">Ordenação e Filtros em JavaScript</th>
             </tr>
