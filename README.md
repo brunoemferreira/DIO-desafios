@@ -1,6 +1,9 @@
-# DIO-desafios
-Desafios kotlin
+<div align="center">
+   <img src="Assets/logo.png" alt="Logo"/> 
+</div>    
 
+
+# Digital Innovation One - Desafios
 
 ## Introdução a Programação em Kotlin ( Básico )
 
