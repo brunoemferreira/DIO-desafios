@@ -95,6 +95,8 @@ Desafios kotlin
 </div>
 
 <div>
+     <summary><strong>JavaScript</strong></summary>
+    <br />
     <div align="left">
         <!-- Introdução a Programação com JavaScript -->
         <table border=1>
