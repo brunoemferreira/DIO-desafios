@@ -6,7 +6,7 @@
 <h1 align="center">Desafios</h1>
 
 <div>
-    <h1 align="center"><strong>Kotlin</strong></h1>
+    <h2 align="center"><strong>Kotlin</strong></h2>
     <br />
     <div align="left">
         <!-- Introdução a Programação com Kotlin -->
