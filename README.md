@@ -184,7 +184,7 @@
 
 
 <div>
-    <div align="left">
+    <div align="left" width="700px">
         <!-- Introdução a Programação com JavaScript -->
         <table border=1 width="700px">
             <tr>
