@@ -3,11 +3,7 @@
 </div>    
 
 
-# Digital Innovation One - Desafios
-
-## Introdução a Programação em Kotlin ( Básico )
-
-<p>Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores</p>
+<h1 align="center">Desafios</h1>
 
 <div>
     <h1 align="center"><strong>Kotlin</strong></h1>
