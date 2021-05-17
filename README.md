@@ -258,7 +258,7 @@
            <tr>
                 <td align="center">2</td>
                 <td>C</td>
-                <td><a href="">Código</a></td>
+                <td><a href="">Área do Círculo</a></td>
                 <td align="center">✔️</td>
            </table>
       </div>
