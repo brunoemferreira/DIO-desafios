@@ -231,3 +231,34 @@
         </table>
       </div>
 </div>
+
+<div>
+    <div align="left" width="700px">
+        <!-- Introdução a Programação com C# -->
+        <table border=1 width="700px">
+            <tr>
+                <th colspan="4">Primeiros Programas em C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Soma Simples</td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/OrdenandoNumerosParesImpares.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+           <tr>
+                <td align="center">2</td>
+                <td>Compras no Supermercado</td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/ComprasNoSupermercado.js">Código</a></td>
+                <td align="center">✔️</td>
+           </table>
+      </div>
+</div>
