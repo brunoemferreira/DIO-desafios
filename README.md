@@ -252,7 +252,7 @@
             <tr>
                 <td align="center">1</td>
                 <td>Soma Simples</td>
-                <td><a href="hhttps://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/C%23/SomaSimples.cs">Código</a></td>
+                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/C%23/SomaSimples.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
            <tr>
