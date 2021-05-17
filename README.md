@@ -233,6 +233,7 @@
 </div>
 
 <div>
+   <h2 align="center"><strong>C#</strong></h2>
     <div align="left" width="700px">
         <!-- Introdução a Programação com C# -->
         <table border=1 width="700px">
@@ -251,13 +252,13 @@
             <tr>
                 <td align="center">1</td>
                 <td>Soma Simples</td>
-                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/OrdenandoNumerosParesImpares.js">Código</a></td>
+                <td><a href="hhttps://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/C%23/SomaSimples.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
            <tr>
                 <td align="center">2</td>
-                <td>Compras no Supermercado</td>
-                <td><a href="https://github.com/brunoemferreira/DIO-desafios/blob/main/Desafios/JavaScript/ComprasNoSupermercado.js">Código</a></td>
+                <td>C</td>
+                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
            </table>
       </div>
